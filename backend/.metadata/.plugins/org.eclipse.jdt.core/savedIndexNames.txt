@@ -24,7 +24,6 @@ INDEX VERSION 1.131+D:\profissional\Rafael\java-spring\minhas-financas\backend\.
 2266611150.index
 1783575052.index
 450184890.index
-3355780660.index
 2354886884.index
 1405277665.index
 2767993580.index
@@ -41,6 +40,7 @@ INDEX VERSION 1.131+D:\profissional\Rafael\java-spring\minhas-financas\backend\.
 2611150612.index
 2856743336.index
 2359672103.index
+1862904677.index
 1252572503.index
 189623828.index
 2162278501.index
