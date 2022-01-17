@@ -69,6 +69,8 @@ secrets.yml
 backend/.metadata*
 backend/.metadata
 /backend/.metadata*
+/backend/.metadata
+/backend/.metadata*
 */.metadata*
 **/.metadata*
 */.metadata
